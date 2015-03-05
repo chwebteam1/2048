@@ -9,7 +9,4 @@
  * Main module of the application.
  */
 angular
-  .module('2k48App', [
-    'ngCookies',
-    'ngTouch'
-  ]);
+  .module('2k48App', []);
